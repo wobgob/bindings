@@ -1,0 +1,5 @@
+# GlyphProperties wotlk 3.3.5
+uint Id
+uint SpellID
+uint GlyphSlotFlags
+uint SpellIconID
